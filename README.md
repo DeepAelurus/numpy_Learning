@@ -4,6 +4,6 @@
   
 ファイルをダウンロードして、Jupyter notebookの環境、またはGoogleコラボ上で実行してください。  
 + NumPy the absolute basics for beginners.ipynb : [numpyチュートリアル（ビキナーズ向け）](https://numpy.org/doc/stable/user/absolute_beginners.html)
-+ Numpy quickStart.ipynb : [numpyクイックスタート](https://numpy.org/doc/stable/user/quickstart.htm)
++ Numpy quickStart.ipynb : [numpyクイックスタート](https://numpy.org/doc/stable/user/quickstart.html)
 
 [@2021 NPO法人AI開発推進協会](https://sites.google.com/deepaelurus.com/aboutus/)
