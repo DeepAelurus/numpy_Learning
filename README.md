@@ -6,6 +6,6 @@
 + NumPy the absolute basics for beginners.ipynb :   
   [numpyチュートリアル（ビキナーズ向け）](https://numpy.org/doc/stable/user/absolute_beginners.html)を翻訳し、Notebookで実行できるようにしたものです。
 + Numpy quickStart.ipynb :   
-  [numpyクイックスタート](https://numpy.org/doc/stable/user/quickstart.htmlを翻訳し、Notebookで実行できるようにしたものです。
+  [numpyクイックスタート](https://numpy.org/doc/stable/user/quickstart.html)を翻訳し、Notebookで実行できるようにしたものです。
 
 [@2022 NPO法人AI開発推進協会](https://sites.google.com/deepaelurus.com/aboutus/)
